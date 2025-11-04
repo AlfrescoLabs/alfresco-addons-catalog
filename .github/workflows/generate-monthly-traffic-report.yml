@@ -12,11 +12,9 @@ on:
 
 permissions:
   contents: write       # to commit reports
-  pages: write          # to publish to GitHub Pages
-  id-token: write       # to deploy Pages
 
 concurrency:
-  group: "pages"
+  group: "reports-generation"
   cancel-in-progress: false
 
 jobs:
@@ -91,18 +89,11 @@ jobs:
           retention-days: 90
           if-no-files-found: warn
 
-      - name: Upload Pages artifact (the entire reports folder)
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: reports
-
-  deploy-pages:
-    needs: generate-report
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      # Trigger the Hugo build workflow to redeploy with new reports
+      - name: Trigger Hugo build
+        run: |
+          curl -X POST \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/validate-and-build.yml/dispatches" \
+            -d '{"ref":"main"}'

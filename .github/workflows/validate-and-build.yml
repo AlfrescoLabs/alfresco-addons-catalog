@@ -4,6 +4,7 @@ on:
   pull_request:
   push:
     branches: [ main ]
+  workflow_dispatch:  # Allow manual trigger from report workflow
 
 permissions:
   contents: read
@@ -49,9 +50,8 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      # OPTIONAL: ensure reports/ is published even if not under static/.
-      # If you prefer, move reports/ -> static/reports/ or set staticDir in hugo.toml.
-      - name: Stage reports into static (so Hugo includes them)
+      # Stage reports into static (so Hugo includes them at /reports/)
+      - name: Stage reports into static
         run: |
           if [ -d reports ]; then
             mkdir -p static/reports
