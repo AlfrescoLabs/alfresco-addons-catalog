@@ -6,9 +6,19 @@ title = "Alfresco Addons Catalog | Extensions, Plugins & Integrations"
 description = "Browse 70+ community-driven add-ons, extensions, and integrations for Alfresco Content Services. Find plugins for ACS 5.x through 25.x from partners and the community."
 keywords = "alfresco addons, alfresco extensions, alfresco plugins, alfresco integrations, alfresco marketplace, alfresco community extensions, ACS addons, alfresco modules"
 author = "Alfresco Community"
-  
+
 # Open Graph / Social sharing
 images = ["img/og-image.png"]
+
+introTitle = "About this Catalog"
+introLead = """<p>Alfresco Addons Catalog is a community-driven space where customers, partners, and community members can showcase add-ons, solutions, and real-world use cases built around Alfresco. Browse the catalog to quickly discover extensions and ideas that may inspire or accelerate your projects.</p>
+<hr>
+<p><strong>Want to share your own work?</strong></p>
+<p>Click “<em>+ Submit Entry</em>” to suggest a new listing, every submission is reviewed by the Hyland Team before it appears here.</p>"""
+
+[params.facets]
+# Show only the top N keywords (by frequency)
+keywordsLimit = 12
 
 [sitemap]
 changefreq = "weekly"
@@ -23,24 +33,13 @@ entries = "/addons/:slug/"
 [pagination]
 pageSize = 10
 
-[params.facets]
-# Show only the top N keywords (by frequency)
-keywordsLimit = 12
-
 [markup.goldmark.renderer]
 unsafe = true
 
 [taxonomies]
 tag = "tags"
-type   = "types"
+type = "types"
 vendor = "vendors"
 
 [outputs]
 home = ["HTML", "JSON"]
-
-[params]
-introTitle = "About this Catalog"
-introLead = """<p>Alfresco Addons Catalog is a community-driven space where customers, partners, and community members can showcase add-ons, solutions, and real-world use cases built around Alfresco. Browse the catalog to quickly discover extensions and ideas that may inspire or accelerate your projects.</p>
-<hr>
-<p><strong>Want to share your own work?</strong></p>
-<p>Click “<em>+ Submit Entry</em>” to suggest a new listing, every submission is reviewed by the Hyland Team before it appears here.</p>"""
