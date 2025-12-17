@@ -1,6 +1,14 @@
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
   
   <!-- Primary Meta Tags -->
   <title>{{ if .IsHome }}Alfresco Addons Catalog - Community Extensions, Plugins & Integrations{{ else }}{{ .Title }} | Alfresco Addons Catalog{{ end }}</title>
@@ -32,5 +40,52 @@
   <meta name="theme-color" content="#1976d2">
   <link rel="sitemap" type="application/xml" href="{{ .Site.BaseURL }}sitemap.xml">
   
-  {{ partial "schema-org.html" . }}
+  <!-- Schema.org for entries -->
+  {{ if eq .Section "entries" }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": {{ .Title | jsonify }},
+    "applicationCategory": "Enterprise Content Management",
+    "operatingSystem": "Any",
+    "url": {{ .Permalink | jsonify }},
+    "description": {{ .Params.description | jsonify }},
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": {{ .Params.vendor | default "Unknown" | jsonify }}
+    }
+  }
+  </script>
+  {{ else if .IsHome }}
+  <!-- Schema.org for homepage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Alfresco Addons Catalog",
+    "alternateName": ["Alfresco Extensions", "Alfresco Plugins", "Alfresco Marketplace"],
+    "url": "{{ .Site.BaseURL }}",
+    "description": "{{ .Site.Params.description }}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Alfresco Community",
+      "url": "https://github.com/AlfrescoLabs"
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "{{ .Site.BaseURL }}?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  {{ end }}
 </head>
