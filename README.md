@@ -1,6 +1,25 @@
 # Alfresco Addons Catalog 
 
-![Status](https://img.shields.io/badge/status-DEVELOPMENT-orange?style=flat-square) [![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](LICENSE) [![Built with Hugo](https://img.shields.io/badge/built%20with-Hugo-ff4088?style=flat-square\&logo=hugo)](https://gohugo.io/) [![GitHub Pages](https://img.shields.io/badge/deployed%20on-GitHub%20Pages-24292e?style=flat-square\&logo=github)](https://alfrescolabs.github.io/alfresco-addons-catalog/) [![Build](https://github.com/alfrescolabs/alfresco-addons-catalog/actions/workflows/validate-and-build.yml/badge.svg)](https://github.com/alfrescolabs/alfresco-addons-catalog/actions/workflows/validate-and-build.yml)
+![Status](https://img.shields.io/badge/status-BETA-green?style=flat-square) [![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)](LICENSE) [![Built with Hugo](https://img.shields.io/badge/built%20with-Hugo-ff4088?style=flat-square\&logo=hugo)](https://gohugo.io/) [![GitHub Pages](https://img.shields.io/badge/deployed%20on-GitHub%20Pages-24292e?style=flat-square\&logo=github)](https://alfrescolabs.github.io/alfresco-addons-catalog/) [![Build](https://github.com/alfrescolabs/alfresco-addons-catalog/actions/workflows/validate-and-build.yml/badge.svg)](https://github.com/alfrescolabs/alfresco-addons-catalog/actions/workflows/validate-and-build.yml)
+
+> **The community-driven directory of add-ons, extensions, and plugins for Alfresco Content Services**
+
+**Live Site**: [alfrescolabs.github.io/alfresco-addons-catalog](https://alfrescolabs.github.io/alfresco-addons-catalog/)
+
+Browse **70+ Alfresco add-ons** including:
+
+* Repository extensions and modules
+* Third-party integrations (Office, OnlyOffice, DocuSign, etc.)
+* Developer tools and utilities
+* Workflow and business process solutions
+
+**Compatible with**: ACS 5.x, 6.x, 7.x, 23.x, and 25.x (Community & Enterprise)
+
+## Why Use This Catalog?
+
+Since the original `addons.alfresco.com` was discontinued, this catalog serves as the **official community-maintained directory** for discovering Alfresco extensions. All submissions are reviewed by the Hyland team before publication.
+
+[Browse the Catalog →](https://alfrescolabs.github.io/alfresco-addons-catalog/)
 
 > **Project in Beta — Now in AlfrescoLabs**
 > The **Alfresco Add-ons Catalog** is now available in the **[AlfrescoLabs](https://github.com/AlfrescoLabs)** organization.

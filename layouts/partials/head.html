@@ -1,30 +1,36 @@
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
-<title>{{ if .IsHome }}Alfresco Addons Catalog{{ else }}{{ .Title }} · Alfresco Addons Catalog{{ end }}</title>
-
-{{ if eq .Section "entries" }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": {{ .Title | jsonify }},
-  "applicationCategory": "Enterprise Content Management",
-  "operatingSystem": "Any",
-  "url": {{ .Permalink | jsonify }},
-  "description": {{ .Params.description | jsonify }},
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": {{ .Params.vendor | default "Unknown" | jsonify }}
-  }
-}
-</script>
-{{ end }}
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- Primary Meta Tags -->
+  <title>{{ if .IsHome }}Alfresco Addons Catalog - Community Extensions, Plugins & Integrations{{ else }}{{ .Title }} | Alfresco Addons Catalog{{ end }}</title>
+  <meta name="title" content="{{ if .IsHome }}Alfresco Addons Catalog - Community Extensions, Plugins & Integrations{{ else }}{{ .Title }} | Alfresco Addons Catalog{{ end }}">
+  <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="keywords" content="{{ .Site.Params.keywords }}">
+  <meta name="author" content="{{ .Site.Params.author }}">
+  <meta name="robots" content="index, follow">
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ .Permalink }}">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:title" content="{{ if .IsHome }}Alfresco Addons Catalog - Community Extensions & Plugins{{ else }}{{ .Title }}{{ end }}">
+  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:image" content="{{ .Site.BaseURL }}images/og-image.png">
+  <meta property="og:site_name" content="Alfresco Addons Catalog">
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="{{ .Permalink }}">
+  <meta name="twitter:title" content="{{ if .IsHome }}Alfresco Addons Catalog{{ else }}{{ .Title }}{{ end }}">
+  <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="twitter:image" content="{{ .Site.BaseURL }}images/og-image.png">
+  
+  <!-- Additional SEO -->
+  <meta name="theme-color" content="#1976d2">
+  <link rel="sitemap" type="application/xml" href="{{ .Site.BaseURL }}sitemap.xml">
+  
+  {{ partial "schema-org.html" . }}
+</head>

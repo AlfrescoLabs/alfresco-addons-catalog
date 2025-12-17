@@ -1,6 +1,24 @@
 baseURL = "https://alfrescolabs.github.io/alfresco-addons-catalog/"
 languageCode = "en-us"
-title = "Alfresco Addons Catalog"
+title = "Alfresco Addons Catalog | Extensions, Plugins & Integrations"
+
+[params]
+description = "Browse 70+ community-driven add-ons, extensions, and integrations for Alfresco Content Services. Find plugins for ACS 5.x through 25.x from partners and the community."
+keywords = "alfresco addons, alfresco extensions, alfresco plugins, alfresco integrations, alfresco marketplace, alfresco community extensions, ACS addons, alfresco modules"
+author = "Alfresco Community"
+  
+# Open Graph / Social sharing
+images = ["img/og-image.png"]
+
+[sitemap]
+changefreq = "weekly"
+priority = 0.5
+filename = "sitemap.xml"
+
+# SEO-friendly URLs
+[permalinks]
+entries = "/addons/:slug/"
+
 # Show only the top N cards per page
 [pagination]
 pageSize = 10

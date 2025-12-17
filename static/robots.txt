@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alfrescolabs.github.io/alfresco-addons-catalog/sitemap.xml
