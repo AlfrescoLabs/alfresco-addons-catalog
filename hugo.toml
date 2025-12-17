@@ -25,10 +25,6 @@ changefreq = "weekly"
 priority = 0.5
 filename = "sitemap.xml"
 
-# SEO-friendly URLs
-[permalinks]
-entries = "/addons/:slug/"
-
 # Show only the top N cards per page
 [pagination]
 pageSize = 10
