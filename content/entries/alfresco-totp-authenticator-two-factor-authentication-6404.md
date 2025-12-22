@@ -14,7 +14,7 @@ compatibility:
 - ACS 6.x
 - ACS 7.x
 license: GPL-3.0-or-later
-keywords: []
+keywords: [authentication]
 download_url: https://github.com/saidone75/alfresco-totp-authenticator
 vendor: https://www.saidone.org
 about: ''
