@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "AlfrescoLabs/alfresco-addons-catalog: Alfresco Addons Catalog: Browse 70+ com...",
+    "count": 8,
+    "uniques": 3
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues/63",
+    "title": "[Catalog Entry] NodeRef \u00b7 Issue #63 \u00b7 AlfrescoLabs/alfresco-addons-catalog",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues",
+    "title": "GitHub \u00b7 Where software is built",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/pull/64",
+    "title": "New catalog entry from issue #63 by github-actions[bot] \u00b7 Pull Request #64 \u00b7 ...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/commits/main",
+    "title": "Commits \u00b7 AlfrescoLabs/alfresco-addons-catalog",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/actions",
+    "title": "Workflow runs \u00b7 AlfrescoLabs/alfresco-addons-catalog",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/pull/64/files",
+    "title": "New catalog entry from issue #63 by github-actions[bot] \u00b7 Pull Request #64 \u00b7 ...",
+    "count": 1,
+    "uniques": 1
+  }
+]
