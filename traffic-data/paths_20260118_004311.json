@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "GitHub - AlfrescoLabs/alfresco-addons-catalog: Alfresco Addons Catalog: Brows...",
+    "count": 16,
+    "uniques": 7
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues",
+    "title": "GitHub \u00b7 Where software is built",
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues/65",
+    "title": "[Catalog Entry] Alfresco Community Binary Installer \u00b7 Issue #65 \u00b7 AlfrescoLab...",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues/63",
+    "title": "[Catalog Entry] NodeRef \u00b7 Issue #63 \u00b7 AlfrescoLabs/alfresco-addons-catalog",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/pull/64",
+    "title": "New catalog entry from issue #63 by github-actions[bot] \u00b7 Pull Request #64 \u00b7 ...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/commits/main",
+    "title": "Commits \u00b7 AlfrescoLabs/alfresco-addons-catalog",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/pull/66",
+    "title": "New catalog entry from issue #65 by github-actions[bot] \u00b7 Pull Request #66 \u00b7 ...",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/actions",
+    "title": "Workflow runs \u00b7 AlfrescoLabs/alfresco-addons-catalog",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/854718ac29704863860f71b7000e20bb1207562b/content/entries/alfresco-node-vault-61.md",
+    "title": "alfresco-addons-catalog/content/entries/alfresco-node-vault-61.md at 854718ac...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/commits/928731479b2a4a9673e760d83e3a0d9e7ae2567c/.github/CODEOWNERS",
+    "title": "History for .github/CODEOWNERS - AlfrescoLabs/alfresco-addons-catalog \u00b7 GitHub",
+    "count": 1,
+    "uniques": 1
+  }
+]
