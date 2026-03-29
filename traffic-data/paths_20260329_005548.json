@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "GitHub - AlfrescoLabs/alfresco-addons-catalog: Alfresco Addons Catalog: Brows...",
+    "count": 36,
+    "uniques": 13
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-community-binary-installer-65.md",
+    "title": "alfresco-addons-catalog/content/entries at main \u00b7 AlfrescoLabs/alfresco-addon...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/tree/main/content/entries",
+    "title": "alfresco-addons-catalog/archetypes at main \u00b7 AlfrescoLabs/alfresco-addons-cat...",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/add-e-signature-on-a-pdf-document-4707.md",
+    "title": "alfresco-addons-catalog/content/entries at main \u00b7 AlfrescoLabs/alfresco-addon...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-deleted-content-store-cleaner-4557.md",
+    "title": "alfresco-addons-catalog/content/entries/alfresco-community-binary-installer-6...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-esign-cert-4158.md",
+    "title": "alfresco-addons-catalog/content/entries/alfresco-deleted-content-store-cleane...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-sync-6702.md",
+    "title": "alfresco-addons-catalog/content/entries/alfresco-esign-cert-4158.md at main \u00b7...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-user-space-template-4450.md",
+    "title": "alfresco-addons-catalog/content/entries/alfresco-sync-6702.md at main \u00b7 Alfre...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-zip-previewer-for-share-4508.md",
+    "title": "alfresco-addons-catalog/content/entries/alfresco-user-space-template-4450.md ...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/bulk-export-tool-50.md",
+    "title": "alfresco-addons-catalog/content/entries/alfresco-zip-previewer-for-share-4508...",
+    "count": 1,
+    "uniques": 1
+  }
+]
