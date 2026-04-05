@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "Overview",
+    "count": 39,
+    "uniques": 13
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-community-binary-installer-65.md",
+    "title": "/blob/main/content/entries/alfresco-community-binary-installer-65.md",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/tree/main/content/entries",
+    "title": "/tree/main/content/entries",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/add-e-signature-on-a-pdf-document-4707.md",
+    "title": "/blob/main/content/entries/add-e-signature-on-a-pdf-document-4707.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-deleted-content-store-cleaner-4557.md",
+    "title": "/blob/main/content/entries/alfresco-deleted-content-store-cleaner-4557.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-esign-cert-4158.md",
+    "title": "/blob/main/content/entries/alfresco-esign-cert-4158.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-sync-6702.md",
+    "title": "/blob/main/content/entries/alfresco-sync-6702.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-user-space-template-4450.md",
+    "title": "/blob/main/content/entries/alfresco-user-space-template-4450.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-zip-previewer-for-share-4508.md",
+    "title": "/blob/main/content/entries/alfresco-zip-previewer-for-share-4508.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/bulk-export-tool-50.md",
+    "title": "/blob/main/content/entries/bulk-export-tool-50.md",
+    "count": 1,
+    "uniques": 1
+  }
+]
