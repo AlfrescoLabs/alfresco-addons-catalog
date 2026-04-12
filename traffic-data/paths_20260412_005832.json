@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "Overview",
+    "count": 34,
+    "uniques": 8
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues/71",
+    "title": "/issues/71",
+    "count": 4,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues",
+    "title": "/issues",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/commit/9eac35f71b503067c739a337b01dde78206a0fb4",
+    "title": "/commit/9eac35f71b503067c739a337b01dde78206a0fb4",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/pull/72",
+    "title": "/pull/72",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/pulls",
+    "title": "/pulls",
+    "count": 1,
+    "uniques": 1
+  }
+]
