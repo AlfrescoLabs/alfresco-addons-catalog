@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "Overview",
+    "count": 12,
+    "uniques": 8
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/watchers",
+    "title": "/watchers",
+    "count": 1,
+    "uniques": 1
+  }
+]
