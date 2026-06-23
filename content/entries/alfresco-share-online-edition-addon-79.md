@@ -1,5 +1,5 @@
 ---
-title: "alfresco-share-online-edition-addon"
+title: "Edit online with Libreoffice in Alfresco Share"
 description: "Edit with Libreoffice in Alfresco Share addon provides a simple webdav link for online edition of common MS-Office and Libreoffice mimetypes in Alfresco Share."
 screenshots: ["https://opengraph.githubassets.com/1/zylklab/alfresco-share-online-edition-addon"]
 compatibility: ["ACS 4.x","ACS 5.x","ACS 6.x","ACS 7.x","ACS 23.x","ACS 25.x"]
