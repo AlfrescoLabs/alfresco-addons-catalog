@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "Overview",
+    "count": 28,
+    "uniques": 8
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues",
+    "title": "/issues",
+    "count": 16,
+    "uniques": 5
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues/79",
+    "title": "/issues/79",
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues/75",
+    "title": "/issues/75",
+    "count": 5,
+    "uniques": 4
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/pull/80",
+    "title": "/pull/80",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/tree/main/content",
+    "title": "/tree/main/content",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/tree/main/content/entries",
+    "title": "/tree/main/content/entries",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-export-scripts-75.md",
+    "title": "/blob/main/content/entries/alfresco-export-scripts-75.md",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/alfresco-share-online-edition-addon-79.md",
+    "title": "/blob/main/content/entries/alfresco-share-online-edition-addon-79.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues/81",
+    "title": "/issues/81",
+    "count": 2,
+    "uniques": 2
+  }
+]
