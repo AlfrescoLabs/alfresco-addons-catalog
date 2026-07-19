@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "Overview",
+    "count": 14,
+    "uniques": 3
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/tree/main/traffic-data",
+    "title": "/tree/main/traffic-data",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/add-e-signature-on-a-pdf-document-4707.md",
+    "title": "/blob/main/content/entries/add-e-signature-on-a-pdf-document-4707.md",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/data/vendors.yaml",
+    "title": "/blob/main/data/vendors.yaml",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/tree/main/content/entries",
+    "title": "/tree/main/content/entries",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/tree/main/layouts",
+    "title": "/tree/main/layouts",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/aca-take-ownership-90.md",
+    "title": "/blob/main/content/entries/aca-take-ownership-90.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/acosix-alfresco-audit-102.md",
+    "title": "/blob/main/content/entries/acosix-alfresco-audit-102.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/acosix-alfresco-keycloak-99.md",
+    "title": "/blob/main/content/entries/acosix-alfresco-keycloak-99.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/acosix-alfresco-utility-101.md",
+    "title": "/blob/main/content/entries/acosix-alfresco-utility-101.md",
+    "count": 1,
+    "uniques": 1
+  }
+]
