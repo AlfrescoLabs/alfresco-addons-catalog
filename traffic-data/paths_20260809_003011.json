@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "Overview",
+    "count": 12,
+    "uniques": 7
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/forks",
+    "title": "/forks",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/graphs/commit-activity",
+    "title": "/graphs/commit-activity",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues",
+    "title": "/issues",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/pulls",
+    "title": "/pulls",
+    "count": 1,
+    "uniques": 1
+  }
+]
