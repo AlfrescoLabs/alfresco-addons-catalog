@@ -2,7 +2,7 @@
 title: "JSConsole for Alfresco"
 description: "Write, run and get IntelliSense for Alfresco administrative JavaScript in VS Code: migrations, bulk fixes, reports and investigations. Runs your scripts through the JavaScript Console web scripts of Order of the Bee Support Tools, which must be installed on the repository. Not a web script developme"
 screenshots: ["https://github.com/PleoSoft/jsconsole-for-alfresco/blob/main/docs/images/fill-arguments.png","https://github.com/PleoSoft/jsconsole-for-alfresco/blob/main/docs/images/query-completion.png","https://github.com/PleoSoft/jsconsole-for-alfresco/blob/main/docs/images/value-completion.png"]
-compatibility: ["- [ ] ACS 4.x","- [ ] ACS 5.x","- [ ] ACS 6.x","- [ ] ACS 7.x","- [ ] ACS 23.1","- [ ] ACS 23.2","- [ ] ACS 23.3","- [ ] ACS 23.4","- [ ] ACS 23.x","- [ ] ACS 25.1","- [ ] ACS 25.2","- [ ] ACS 25.x"]
+compatibility: ["ACS 7.x","ACS 23.x","ACS 25.x"]
 license: "Apache-2.0"
 keywords: ["_No response_"]
 download_url: "_No response_"
