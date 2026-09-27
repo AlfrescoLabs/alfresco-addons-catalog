@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "Overview",
+    "count": 30,
+    "uniques": 10
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/commits/main",
+    "title": "/commits/main",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/TAKEDOWN.md",
+    "title": "/blob/main/TAKEDOWN.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues/75",
+    "title": "/issues/75",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues/new",
+    "title": "/issues/new",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/tree/main/content",
+    "title": "/tree/main/content",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/tree/main/content/entries",
+    "title": "/tree/main/content/entries",
+    "count": 1,
+    "uniques": 1
+  }
+]
