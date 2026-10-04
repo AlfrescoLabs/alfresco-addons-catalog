@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "Overview",
+    "count": 39,
+    "uniques": 8
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues/83",
+    "title": "/issues/83",
+    "count": 9,
+    "uniques": 4
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/pull/84",
+    "title": "/pull/84",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/commits/main",
+    "title": "/commits/main",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/issues/new",
+    "title": "/issues/new",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/actions/runs/35975129678/job/107553698049",
+    "title": "/actions/runs/35975129678/job/107553698049",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/content/entries/jsconsole-for-alfresco-83.md",
+    "title": "/blob/main/content/entries/jsconsole-for-alfresco-83.md",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/edit/main/content/entries/jsconsole-for-alfresco-83.md",
+    "title": "/edit/main/content/entries/jsconsole-for-alfresco-83.md",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/tree/main/content/entries",
+    "title": "/tree/main/content/entries",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/actions/runs/35975129678",
+    "title": "/actions/runs/35975129678",
+    "count": 1,
+    "uniques": 1
+  }
+]

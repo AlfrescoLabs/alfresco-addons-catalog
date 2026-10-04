@@ -1,0 +1,42 @@
+[
+  {
+    "referrer": "Google",
+    "count": 20,
+    "uniques": 1
+  },
+  {
+    "referrer": "linkedin.com",
+    "count": 7,
+    "uniques": 2
+  },
+  {
+    "referrer": "github.com",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "referrer": "alfrescolabs.github.io",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "Bing",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "Yahoo",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "com.linkedin.android",
+    "count": 1,
+    "uniques": 1
+  }
+]
