@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "Overview",
+    "count": 27,
+    "uniques": 7
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/graphs/contributors",
+    "title": "/graphs/contributors",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/alfrescolabs/alfresco-addons-catalog/blob/HEAD/content/entries/sharebox-secure-external-sharing-3903.md",
+    "title": "/blob/HEAD/content/entries/sharebox-secure-external-sharing-3903.md",
+    "count": 1,
+    "uniques": 1
+  }
+]
