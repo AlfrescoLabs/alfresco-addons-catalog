@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "Overview",
+    "count": 21,
+    "uniques": 6
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/actions/runs/18654223215",
+    "title": "/actions/runs/18654223215",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/tree/main",
+    "title": "/tree/main",
+    "count": 1,
+    "uniques": 1
+  }
+]
