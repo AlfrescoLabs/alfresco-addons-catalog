@@ -1,0 +1,27 @@
+[
+  {
+    "referrer": "Google",
+    "count": 10,
+    "uniques": 1
+  },
+  {
+    "referrer": "github.com",
+    "count": 5,
+    "uniques": 3
+  },
+  {
+    "referrer": "aocr.org",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "referrer": "Bing",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "Yahoo",
+    "count": 1,
+    "uniques": 1
+  }
+]
