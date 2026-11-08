@@ -1,0 +1,62 @@
+[
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog",
+    "title": "Overview",
+    "count": 33,
+    "uniques": 17
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/TAKEDOWN.md",
+    "title": "/blob/main/TAKEDOWN.md",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/commits",
+    "title": "/commits",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/e3ffbd1ff2ebc41b93a0dd5e674a82e4b753d8ab/reports/traffic-report-20261101.html",
+    "title": "/blob/e3ffbd1ff2ebc41b93a0dd5e674a82e4b753d8ab/reports/traffic-report-20261101.html",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/CONTENT_POLICY.md",
+    "title": "/blob/main/CONTENT_POLICY.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/commit/26061f604e2f787e66e57ab093d01d6168f7120b",
+    "title": "/commit/26061f604e2f787e66e57ab093d01d6168f7120b",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/commit/9eac35f71b503067c739a337b01dde78206a0fb4",
+    "title": "/commit/9eac35f71b503067c739a337b01dde78206a0fb4",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/commit/cff14e4c5a210c7412ca956804d2718c3c067580",
+    "title": "/commit/cff14e4c5a210c7412ca956804d2718c3c067580",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/AlfrescoLabs/alfresco-addons-catalog/commit/e3ffbd1ff2ebc41b93a0dd5e674a82e4b753d8ab",
+    "title": "/commit/e3ffbd1ff2ebc41b93a0dd5e674a82e4b753d8ab",
+    "count": 1,
+    "uniques": 1
+  }
+]
